@@ -1,0 +1,13 @@
+E:\C#_VS2022\WinForm\LamViecVoiData\bin\Debug\LamViecVoiData.exe.config
+E:\C#_VS2022\WinForm\LamViecVoiData\bin\Debug\LamViecVoiData.exe
+E:\C#_VS2022\WinForm\LamViecVoiData\bin\Debug\LamViecVoiData.pdb
+E:\C#_VS2022\WinForm\LamViecVoiData\obj\Debug\LamViecVoiData.csproj.AssemblyReference.cache
+E:\C#_VS2022\WinForm\LamViecVoiData\obj\Debug\LamViecVoiData.Properties.Resources.resources
+E:\C#_VS2022\WinForm\LamViecVoiData\obj\Debug\LamViecVoiData.csproj.GenerateResource.cache
+E:\C#_VS2022\WinForm\LamViecVoiData\obj\Debug\LamViecVoiData.csproj.CoreCompileInputs.cache
+E:\C#_VS2022\WinForm\LamViecVoiData\obj\Debug\LamViecVoiData.exe
+E:\C#_VS2022\WinForm\LamViecVoiData\obj\Debug\LamViecVoiData.pdb
+E:\C#_VS2022\WinForm\LamViecVoiData\obj\Debug\LamViecVoiData.frmKhachHang.resources
+E:\C#_VS2022\WinForm\LamViecVoiData\obj\Debug\LamViecVoiData.frmBan.resources
+E:\C#_VS2022\WinForm\LamViecVoiData\obj\Debug\LamViecVoiData.frmChuongTrinhUuDai.resources
+E:\C#_VS2022\WinForm\LamViecVoiData\obj\Debug\LamViecVoiData.frmMain.resources

@@ -1,0 +1,24 @@
+D:\Document\Học tập\Studing\QT CSDL\Nhóm\ChickenPlus\ChickenPlus\bin\Debug\ChickenPlus.exe.config
+D:\Document\Học tập\Studing\QT CSDL\Nhóm\ChickenPlus\ChickenPlus\bin\Debug\ChickenPlus.exe
+D:\Document\Học tập\Studing\QT CSDL\Nhóm\ChickenPlus\ChickenPlus\bin\Debug\ChickenPlus.pdb
+D:\Document\Học tập\Studing\QT CSDL\Nhóm\ChickenPlus\ChickenPlus\obj\Debug\ChickenPlus.csproj.AssemblyReference.cache
+D:\Document\Học tập\Studing\QT CSDL\Nhóm\ChickenPlus\ChickenPlus\obj\Debug\ChickenPlus.frmNhanVien.resources
+D:\Document\Học tập\Studing\QT CSDL\Nhóm\ChickenPlus\ChickenPlus\obj\Debug\ChickenPlus.Properties.Resources.resources
+D:\Document\Học tập\Studing\QT CSDL\Nhóm\ChickenPlus\ChickenPlus\obj\Debug\ChickenPlus.csproj.GenerateResource.cache
+D:\Document\Học tập\Studing\QT CSDL\Nhóm\ChickenPlus\ChickenPlus\obj\Debug\ChickenPlus.csproj.CoreCompileInputs.cache
+D:\Document\Học tập\Studing\QT CSDL\Nhóm\ChickenPlus\ChickenPlus\obj\Debug\ChickenPlus.exe
+D:\Document\Học tập\Studing\QT CSDL\Nhóm\ChickenPlus\ChickenPlus\obj\Debug\ChickenPlus.pdb
+D:\Document\Học tập\Studing\QT CSDL\Nhóm\ChickenPlus\ChickenPlus\obj\Debug\ChickenPlus.frmMonAn.resources
+D:\Document\Học tập\Studing\QT CSDL\Nhóm\ChickenPlus\ChickenPlus\obj\Debug\ChickenPlus.frmHoaDon.resources
+E:\C#_VS2022\WinForm\ChickenPlus\ChickenPlus\bin\Debug\ChickenPlus.exe.config
+E:\C#_VS2022\WinForm\ChickenPlus\ChickenPlus\bin\Debug\ChickenPlus.exe
+E:\C#_VS2022\WinForm\ChickenPlus\ChickenPlus\bin\Debug\ChickenPlus.pdb
+E:\C#_VS2022\WinForm\ChickenPlus\ChickenPlus\obj\Debug\ChickenPlus.csproj.AssemblyReference.cache
+E:\C#_VS2022\WinForm\ChickenPlus\ChickenPlus\obj\Debug\ChickenPlus.frmHoaDon.resources
+E:\C#_VS2022\WinForm\ChickenPlus\ChickenPlus\obj\Debug\ChickenPlus.frmMonAn.resources
+E:\C#_VS2022\WinForm\ChickenPlus\ChickenPlus\obj\Debug\ChickenPlus.frmNhanVien.resources
+E:\C#_VS2022\WinForm\ChickenPlus\ChickenPlus\obj\Debug\ChickenPlus.Properties.Resources.resources
+E:\C#_VS2022\WinForm\ChickenPlus\ChickenPlus\obj\Debug\ChickenPlus.csproj.GenerateResource.cache
+E:\C#_VS2022\WinForm\ChickenPlus\ChickenPlus\obj\Debug\ChickenPlus.csproj.CoreCompileInputs.cache
+E:\C#_VS2022\WinForm\ChickenPlus\ChickenPlus\obj\Debug\ChickenPlus.exe
+E:\C#_VS2022\WinForm\ChickenPlus\ChickenPlus\obj\Debug\ChickenPlus.pdb

@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#_VS2022\\WinForm\\MyApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{848E7586-902B-4733-9504-450B1C4845BE}|MyApp.csproj|e:\\c#_vs2022\\winform\\myapp\\frmcacl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848E7586-902B-4733-9504-450B1C4845BE}|MyApp.csproj|solutionrelative:frmcacl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848E7586-902B-4733-9504-450B1C4845BE}|MyApp.csproj|e:\\c#_vs2022\\winform\\myapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848E7586-902B-4733-9504-450B1C4845BE}|MyApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848E7586-902B-4733-9504-450B1C4845BE}|MyApp.csproj|e:\\c#_vs2022\\winform\\myapp\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848E7586-902B-4733-9504-450B1C4845BE}|MyApp.csproj|solutionrelative:frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848E7586-902B-4733-9504-450B1C4845BE}|MyApp.csproj|e:\\c#_vs2022\\winform\\myapp\\frmcacl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{848E7586-902B-4733-9504-450B1C4845BE}|MyApp.csproj|solutionrelative:frmcacl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848E7586-902B-4733-9504-450B1C4845BE}|MyApp.csproj|e:\\c#_vs2022\\winform\\myapp\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{848E7586-902B-4733-9504-450B1C4845BE}|MyApp.csproj|solutionrelative:frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 205,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmCacl.cs",
+              "DocumentMoniker": "E:\\C#_VS2022\\WinForm\\MyApp\\frmCacl.cs",
+              "RelativeDocumentMoniker": "frmCacl.cs",
+              "ToolTip": "E:\\C#_VS2022\\WinForm\\MyApp\\frmCacl.cs",
+              "RelativeToolTip": "frmCacl.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T19:10:52.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmCacl.cs [Design]",
+              "DocumentMoniker": "E:\\C#_VS2022\\WinForm\\MyApp\\frmCacl.cs",
+              "RelativeDocumentMoniker": "frmCacl.cs",
+              "ToolTip": "E:\\C#_VS2022\\WinForm\\MyApp\\frmCacl.cs [Design]",
+              "RelativeToolTip": "frmCacl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T19:07:19.097Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmKhachHang.cs",
+              "DocumentMoniker": "E:\\C#_VS2022\\WinForm\\MyApp\\frmKhachHang.cs",
+              "RelativeDocumentMoniker": "frmKhachHang.cs",
+              "ToolTip": "E:\\C#_VS2022\\WinForm\\MyApp\\frmKhachHang.cs",
+              "RelativeToolTip": "frmKhachHang.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T18:32:47.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#_VS2022\\WinForm\\MyApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\C#_VS2022\\WinForm\\MyApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T18:07:40.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmKhachHang.cs [Design]",
+              "DocumentMoniker": "E:\\C#_VS2022\\WinForm\\MyApp\\frmKhachHang.cs",
+              "RelativeDocumentMoniker": "frmKhachHang.cs",
+              "ToolTip": "E:\\C#_VS2022\\WinForm\\MyApp\\frmKhachHang.cs [Design]",
+              "RelativeToolTip": "frmKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T18:04:59.928Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

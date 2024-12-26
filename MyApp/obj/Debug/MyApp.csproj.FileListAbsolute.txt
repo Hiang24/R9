@@ -1,0 +1,11 @@
+E:\C#_VS2022\WinForm\MyApp\bin\Debug\MyApp.exe.config
+E:\C#_VS2022\WinForm\MyApp\bin\Debug\MyApp.exe
+E:\C#_VS2022\WinForm\MyApp\bin\Debug\MyApp.pdb
+E:\C#_VS2022\WinForm\MyApp\obj\Debug\MyApp.csproj.AssemblyReference.cache
+E:\C#_VS2022\WinForm\MyApp\obj\Debug\MyApp.frmKhachHang.resources
+E:\C#_VS2022\WinForm\MyApp\obj\Debug\MyApp.Properties.Resources.resources
+E:\C#_VS2022\WinForm\MyApp\obj\Debug\MyApp.csproj.GenerateResource.cache
+E:\C#_VS2022\WinForm\MyApp\obj\Debug\MyApp.csproj.CoreCompileInputs.cache
+E:\C#_VS2022\WinForm\MyApp\obj\Debug\MyApp.exe
+E:\C#_VS2022\WinForm\MyApp\obj\Debug\MyApp.pdb
+E:\C#_VS2022\WinForm\MyApp\obj\Debug\MyApp.frmCacl.resources

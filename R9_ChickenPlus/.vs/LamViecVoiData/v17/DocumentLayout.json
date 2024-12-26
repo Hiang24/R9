@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#_VS2022\\WinForm\\R9_ChickenPlus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07B0D78F-5812-4C83-A82E-2E86516F438B}|LamViecVoiData.csproj|E:\\C#_VS2022\\WinForm\\R9_ChickenPlus\\frmban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B0D78F-5812-4C83-A82E-2E86516F438B}|LamViecVoiData.csproj|solutionrelative:frmban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B0D78F-5812-4C83-A82E-2E86516F438B}|LamViecVoiData.csproj|E:\\C#_VS2022\\WinForm\\R9_ChickenPlus\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B0D78F-5812-4C83-A82E-2E86516F438B}|LamViecVoiData.csproj|solutionrelative:frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B0D78F-5812-4C83-A82E-2E86516F438B}|LamViecVoiData.csproj|E:\\C#_VS2022\\WinForm\\R9_ChickenPlus\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07B0D78F-5812-4C83-A82E-2E86516F438B}|LamViecVoiData.csproj|solutionrelative:frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B0D78F-5812-4C83-A82E-2E86516F438B}|LamViecVoiData.csproj|e:\\c#_vs2022\\winform\\r9_chickenplus\\frmmonan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07B0D78F-5812-4C83-A82E-2E86516F438B}|LamViecVoiData.csproj|solutionrelative:frmmonan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B0D78F-5812-4C83-A82E-2E86516F438B}|LamViecVoiData.csproj|E:\\C#_VS2022\\WinForm\\R9_ChickenPlus\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07B0D78F-5812-4C83-A82E-2E86516F438B}|LamViecVoiData.csproj|solutionrelative:frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B0D78F-5812-4C83-A82E-2E86516F438B}|LamViecVoiData.csproj|E:\\C#_VS2022\\WinForm\\R9_ChickenPlus\\frmban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07B0D78F-5812-4C83-A82E-2E86516F438B}|LamViecVoiData.csproj|solutionrelative:frmban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B0D78F-5812-4C83-A82E-2E86516F438B}|LamViecVoiData.csproj|E:\\C#_VS2022\\WinForm\\R9_ChickenPlus\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B0D78F-5812-4C83-A82E-2E86516F438B}|LamViecVoiData.csproj|solutionrelative:frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B0D78F-5812-4C83-A82E-2E86516F438B}|LamViecVoiData.csproj|E:\\C#_VS2022\\WinForm\\R9_ChickenPlus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B0D78F-5812-4C83-A82E-2E86516F438B}|LamViecVoiData.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B0D78F-5812-4C83-A82E-2E86516F438B}|LamViecVoiData.csproj|E:\\C#_VS2022\\WinForm\\R9_ChickenPlus\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07B0D78F-5812-4C83-A82E-2E86516F438B}|LamViecVoiData.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B0D78F-5812-4C83-A82E-2E86516F438B}|LamViecVoiData.csproj|E:\\C#_VS2022\\WinForm\\R9_ChickenPlus\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07B0D78F-5812-4C83-A82E-2E86516F438B}|LamViecVoiData.csproj|solutionrelative:frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B0D78F-5812-4C83-A82E-2E86516F438B}|LamViecVoiData.csproj|E:\\C#_VS2022\\WinForm\\R9_ChickenPlus\\frmchuongtrinhuudai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07B0D78F-5812-4C83-A82E-2E86516F438B}|LamViecVoiData.csproj|solutionrelative:frmchuongtrinhuudai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B0D78F-5812-4C83-A82E-2E86516F438B}|LamViecVoiData.csproj|E:\\C#_VS2022\\WinForm\\R9_ChickenPlus\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B0D78F-5812-4C83-A82E-2E86516F438B}|LamViecVoiData.csproj|solutionrelative:frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B0D78F-5812-4C83-A82E-2E86516F438B}|LamViecVoiData.csproj|E:\\C#_VS2022\\WinForm\\R9_ChickenPlus\\frmnhanvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B0D78F-5812-4C83-A82E-2E86516F438B}|LamViecVoiData.csproj|solutionrelative:frmnhanvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B0D78F-5812-4C83-A82E-2E86516F438B}|LamViecVoiData.csproj|E:\\C#_VS2022\\WinForm\\R9_ChickenPlus\\frmmonan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B0D78F-5812-4C83-A82E-2E86516F438B}|LamViecVoiData.csproj|solutionrelative:frmmonan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B0D78F-5812-4C83-A82E-2E86516F438B}|LamViecVoiData.csproj|E:\\C#_VS2022\\WinForm\\R9_ChickenPlus\\frmmonan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B0D78F-5812-4C83-A82E-2E86516F438B}|LamViecVoiData.csproj|solutionrelative:frmmonan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B0D78F-5812-4C83-A82E-2E86516F438B}|LamViecVoiData.csproj|E:\\C#_VS2022\\WinForm\\R9_ChickenPlus\\frmchuongtrinhuudai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B0D78F-5812-4C83-A82E-2E86516F438B}|LamViecVoiData.csproj|solutionrelative:frmchuongtrinhuudai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 205,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmBan.cs",
+              "DocumentMoniker": "E:\\C#_VS2022\\WinForm\\R9_ChickenPlus\\frmBan.cs",
+              "RelativeDocumentMoniker": "frmBan.cs",
+              "ToolTip": "E:\\C#_VS2022\\WinForm\\R9_ChickenPlus\\frmBan.cs",
+              "RelativeToolTip": "frmBan.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T07:54:29.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmHoaDon.cs",
+              "DocumentMoniker": "E:\\C#_VS2022\\WinForm\\R9_ChickenPlus\\frmHoaDon.cs",
+              "RelativeDocumentMoniker": "frmHoaDon.cs",
+              "ToolTip": "E:\\C#_VS2022\\WinForm\\R9_ChickenPlus\\frmHoaDon.cs",
+              "RelativeToolTip": "frmHoaDon.cs",
+              "ViewState": "AgIAAO0AAAAAAAAAAAAEwFIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T07:44:43.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmMonAn.cs [Design]",
+              "DocumentMoniker": "E:\\C#_VS2022\\WinForm\\R9_ChickenPlus\\frmMonAn.cs",
+              "RelativeDocumentMoniker": "frmMonAn.cs",
+              "ToolTip": "E:\\C#_VS2022\\WinForm\\R9_ChickenPlus\\frmMonAn.cs [Design]",
+              "RelativeToolTip": "frmMonAn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T07:42:32.835Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmHoaDon.cs [Design]",
+              "DocumentMoniker": "E:\\C#_VS2022\\WinForm\\R9_ChickenPlus\\frmHoaDon.cs",
+              "RelativeDocumentMoniker": "frmHoaDon.cs",
+              "ToolTip": "E:\\C#_VS2022\\WinForm\\R9_ChickenPlus\\frmHoaDon.cs [Design]",
+              "RelativeToolTip": "frmHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T07:38:56.142Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmBan.cs [Design]",
+              "DocumentMoniker": "E:\\C#_VS2022\\WinForm\\R9_ChickenPlus\\frmBan.cs",
+              "RelativeDocumentMoniker": "frmBan.cs",
+              "ToolTip": "E:\\C#_VS2022\\WinForm\\R9_ChickenPlus\\frmBan.cs [Design]",
+              "RelativeToolTip": "frmBan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T07:38:39.026Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmNhanVien.cs",
+              "DocumentMoniker": "E:\\C#_VS2022\\WinForm\\R9_ChickenPlus\\frmNhanVien.cs",
+              "RelativeDocumentMoniker": "frmNhanVien.cs",
+              "ToolTip": "E:\\C#_VS2022\\WinForm\\R9_ChickenPlus\\frmNhanVien.cs",
+              "RelativeToolTip": "frmNhanVien.cs",
+              "ViewState": "AgIAAL8AAAAAAAAAAAD4v8sAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T07:18:06.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmNhanVien.cs [Design]",
+              "DocumentMoniker": "E:\\C#_VS2022\\WinForm\\R9_ChickenPlus\\frmNhanVien.cs",
+              "RelativeDocumentMoniker": "frmNhanVien.cs",
+              "ToolTip": "E:\\C#_VS2022\\WinForm\\R9_ChickenPlus\\frmNhanVien.cs [Design]",
+              "RelativeToolTip": "frmNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T07:39:15.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#_VS2022\\WinForm\\R9_ChickenPlus\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\C#_VS2022\\WinForm\\R9_ChickenPlus\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T07:16:49.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmChuongTrinhUuDai.cs [Design]",
+              "DocumentMoniker": "E:\\C#_VS2022\\WinForm\\R9_ChickenPlus\\frmChuongTrinhUuDai.cs",
+              "RelativeDocumentMoniker": "frmChuongTrinhUuDai.cs",
+              "ToolTip": "E:\\C#_VS2022\\WinForm\\R9_ChickenPlus\\frmChuongTrinhUuDai.cs [Design]",
+              "RelativeToolTip": "frmChuongTrinhUuDai.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T06:26:58.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmKhachHang.cs [Design]",
+              "DocumentMoniker": "E:\\C#_VS2022\\WinForm\\R9_ChickenPlus\\frmKhachHang.cs",
+              "RelativeDocumentMoniker": "frmKhachHang.cs",
+              "ToolTip": "E:\\C#_VS2022\\WinForm\\R9_ChickenPlus\\frmKhachHang.cs [Design]",
+              "RelativeToolTip": "frmKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T06:37:08.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "E:\\C#_VS2022\\WinForm\\R9_ChickenPlus\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "E:\\C#_VS2022\\WinForm\\R9_ChickenPlus\\frmMain.cs [Design]",
+              "RelativeToolTip": "frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T07:39:08.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmMonAn.Designer.cs",
+              "DocumentMoniker": "E:\\C#_VS2022\\WinForm\\R9_ChickenPlus\\frmMonAn.Designer.cs",
+              "RelativeDocumentMoniker": "frmMonAn.Designer.cs",
+              "ToolTip": "E:\\C#_VS2022\\WinForm\\R9_ChickenPlus\\frmMonAn.Designer.cs",
+              "RelativeToolTip": "frmMonAn.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T07:14:08.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmMonAn.cs",
+              "DocumentMoniker": "E:\\C#_VS2022\\WinForm\\R9_ChickenPlus\\frmMonAn.cs",
+              "RelativeDocumentMoniker": "frmMonAn.cs",
+              "ToolTip": "E:\\C#_VS2022\\WinForm\\R9_ChickenPlus\\frmMonAn.cs",
+              "RelativeToolTip": "frmMonAn.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAtwBcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T07:17:13.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmNhanVien.Designer.cs",
+              "DocumentMoniker": "E:\\C#_VS2022\\WinForm\\R9_ChickenPlus\\frmNhanVien.Designer.cs",
+              "RelativeDocumentMoniker": "frmNhanVien.Designer.cs",
+              "ToolTip": "E:\\C#_VS2022\\WinForm\\R9_ChickenPlus\\frmNhanVien.Designer.cs",
+              "RelativeToolTip": "frmNhanVien.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T07:14:43.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmKhachHang.cs",
+              "DocumentMoniker": "E:\\C#_VS2022\\WinForm\\R9_ChickenPlus\\frmKhachHang.cs",
+              "RelativeDocumentMoniker": "frmKhachHang.cs",
+              "ToolTip": "E:\\C#_VS2022\\WinForm\\R9_ChickenPlus\\frmKhachHang.cs",
+              "RelativeToolTip": "frmKhachHang.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAUwEcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T06:37:16.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmChuongTrinhUuDai.cs",
+              "DocumentMoniker": "E:\\C#_VS2022\\WinForm\\R9_ChickenPlus\\frmChuongTrinhUuDai.cs",
+              "RelativeDocumentMoniker": "frmChuongTrinhUuDai.cs",
+              "ToolTip": "E:\\C#_VS2022\\WinForm\\R9_ChickenPlus\\frmChuongTrinhUuDai.cs",
+              "RelativeToolTip": "frmChuongTrinhUuDai.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T06:22:01.825Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
